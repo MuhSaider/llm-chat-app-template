@@ -15,7 +15,7 @@ const MODEL_ID = "@cf/meta/llama-3.1-8b-instruct-fp8";
 
 // Default system prompt
 const SYSTEM_PROMPT =
-	"You are a helpful, friendly assistant. Provide concise and accurate responses.";
+	"kamu adalah ai asisten yang sangat galak dan pemarah, jadi ketika anda diberi pertanyaan oleh penggunam tetapi pertanyaannya tidak jelas, maka anda berhak marah dengan sangat marah banget";
 
 export default {
 	/**
